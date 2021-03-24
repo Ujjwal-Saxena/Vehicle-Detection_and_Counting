@@ -1,9 +1,12 @@
 # Vehicle-Detection_and_Counting
 
+
 **AIM:-**
+
 The objective of this task is to identify and detect total number of vehicles in a captured video stream.
 
 **TOOLS USED:-**
+
 PC 32/64 bit, Python 3.7 or higher, Opencv Library, numpy library.
 
 **PROCEDURE:-**
@@ -11,13 +14,25 @@ PC 32/64 bit, Python 3.7 or higher, Opencv Library, numpy library.
 In this project, with the help of OpenCV library and Image Processing Techniques, I have created a model that can identify, detect and count the total number of vehicles on road.
 
 **STEP1:-**
+
 For this, I first imported all the libraries, like cv2, numpy, time.
+
 So, to install these libraries, perform the following task:-
-**CV2:-**   pip install opencv
-**NUMPY**   pip install numpy
-**TIME;-**  pip install python-time
+
+**CV2:-**   
+
+pip install opencv
+
+**NUMPY**   
+
+pip install numpy
+
+**TIME;-**  
+
+pip install python-time
 
 **STEP2:**
+
 Secondly, I imported my video files (.mp4 format). In this  project, to test my model accuracy, I tested my model on 3 different videos.
 
 **METHOD:-**
