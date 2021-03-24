@@ -12,3 +12,8 @@ I specified the coordinates to make a line that will actually act as a threshold
 I performed Image Processing techiniques on the video frames to get insights of the contours, grayscale, Gaussian_Blurring, Kernel definition, dilation.
 
 I then defined a rectangle to detect vehicles with their centres. 
+
+
+Execute main.py to see the result of vehicle detection and counting for a daylight video.
+
+Execute video1.py to see the result of vehicle detection and counting for a night video. 
